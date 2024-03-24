@@ -1,0 +1,19 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{text-align: center;
+    font-size: 1.75em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(97, 66, 107);
+    color: rgb(179, 136, 194);
+}
+hr{
+    height: 10px;
+    background-color:rgb(179, 136, 194);
+    border: 3px;
+}
+header{
+    text-align: center;
+}
